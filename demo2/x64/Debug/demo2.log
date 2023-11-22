@@ -1,0 +1,127 @@
+﻿  function.cpp
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,7): error C2146: 语法错误: 缺少“;”(在标识符“bk_img”的前面)
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,6): error C2182: “drawAlpha”: “void” 这一使用无效
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,23): error C2065: “dstimg”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,31): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,7): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,18): error C2238: 意外的标记位于“;”之前
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(147,49): error C2061: 语法错误: 标识符“IMAGE”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): error C2182: “loadimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,23): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,32): error C2275: “LPCTSTR”: 应为表达式而不是类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,40): error C2146: 语法错误: 缺少“)”(在标识符“pImgFile”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): error C2182: “loadimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): error C2374: “loadimage”: 重定义；多次初始化
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,23): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,32): error C2275: “LPCTSTR”: 应为表达式而不是类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,40): error C2146: 语法错误: 缺少“)”(在标识符“pResType”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(260,34): error C2061: 语法错误: 标识符“IMAGE”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,6): error C2182: “getimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,22): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,31): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(262,47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(262,47): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(263,76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(263,76): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,6): error C2182: “rotateimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,25): error C2065: “dstimg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,40): error C2065: “srcimg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,48): error C2062: 意外的类型“double”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,6): error C2182: “Resize”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,20): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,26): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(266,30): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,1): error C2086: “int IMAGE”: 重定义
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,1): message : 参见“IMAGE”的声明
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(268,6): error C2182: “SetWorkingImage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(268,29): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(269,24): error C2065: “pImg”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(9,16): error C2065: “bk_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(15,19): error C2065: “loading”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(15,9): error C2064: 项不会计算为接受 2 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(25,25): error C2065: “bk_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(26,28): error C2065: “loading”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(26,9): error C2661: “putimage”: 没有重载函数接受 2 个参数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(26,9): message : 尝试匹配参数列表“(int, int)”时
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(32,6): error C2182: “drawAlpha”: “void” 这一使用无效
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(32,6): error C2374: “drawAlpha”: 重定义；多次初始化
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,6): message : 参见“drawAlpha”的声明
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(32,23): error C2065: “dstimg”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(32,31): error C2062: 意外的类型“int”
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(33,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(33,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(69,15): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(69,5): error C2064: 项不会计算为接受 2 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(70,15): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(70,5): error C2064: 项不会计算为接受 4 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(71,16): error C2065: “temp_menu1_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(72,15): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(72,5): error C2064: 项不会计算为接受 4 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(73,16): error C2065: “temp_menu2_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(74,15): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(74,5): error C2064: 项不会计算为接受 2 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(75,15): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(75,5): error C2064: 项不会计算为接受 2 个参数的函数
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(80,16): error C2065: “temp_menu1_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(80,40): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(81,16): error C2065: “temp_menu1_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(81,38): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(82,21): error C2065: “temp_menu1_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(89,16): error C2065: “temp_menu2_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(89,38): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(90,16): error C2065: “temp_menu2_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(90,42): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(91,16): error C2065: “temp_menu2_img”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(91,42): error C2065: “startmenu”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\function.cpp(92,21): error C2065: “temp_menu2_img”: 未声明的标识符
+  main.cpp
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,7): error C2146: 语法错误: 缺少“;”(在标识符“bk_img”的前面)
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,6): error C2182: “drawAlpha”: “void” 这一使用无效
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,23): error C2065: “dstimg”: 未声明的标识符
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(23,31): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,7): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(94,18): error C2238: 意外的标记位于“;”之前
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(147,49): error C2061: 语法错误: 标识符“IMAGE”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): error C2182: “loadimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,23): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,32): error C2275: “LPCTSTR”: 应为表达式而不是类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,40): error C2146: 语法错误: 缺少“)”(在标识符“pImgFile”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): error C2182: “loadimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): error C2374: “loadimage”: 重定义；多次初始化
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,23): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,32): error C2275: “LPCTSTR”: 应为表达式而不是类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,40): error C2146: 语法错误: 缺少“)”(在标识符“pResType”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(260,34): error C2061: 语法错误: 标识符“IMAGE”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,6): error C2182: “getimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,22): error C2065: “pDstImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(261,31): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(262,47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(262,47): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(263,76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(263,76): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,6): error C2182: “rotateimage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,25): error C2065: “dstimg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,40): error C2065: “srcimg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(264,48): error C2062: 意外的类型“double”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,6): error C2182: “Resize”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,20): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(265,26): error C2062: 意外的类型“int”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(266,30): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,1): error C2086: “int IMAGE”: 重定义
+D:\Project\Isaac\The-Union-of-Isaac\demo2\demo02.h(8,1): message : 参见“IMAGE”的声明
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(267,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(268,6): error C2182: “SetWorkingImage”: “void” 这一使用无效
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(268,29): error C2065: “pImg”: 未声明的标识符
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(269,24): error C2065: “pImg”: 未声明的标识符
+  正在生成代码...

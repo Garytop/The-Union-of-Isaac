@@ -42,11 +42,10 @@ void menu(void)
 			case WM_LBUTTONDOWN:
 				if (msg.x >= 300 && msg.x <= 1100 && msg.y >= 110 && msg.y <= 300)
 				{
-					cleardevice();
 					StartUp();
 				}
 				else if (msg.x >= 300 && msg.x <= 1100 && msg.x >= 380 && msg.y <= 570)
-					cleardevice();
+					//cleardevice();
 				break;
 			}
 		}
@@ -73,7 +72,7 @@ void StartUp(void)
 	do {
 		x = create_location(1440);
 		y = create_location(810);
-	} while (x < 380 || x>1200 || y < 250 || y > 800);
+	} while (x < 380 || x>1200 || y < 250 || y > 700);
 	setorigin(x, y);
 	initializeissac();
 }
@@ -99,8 +98,21 @@ void initializeissac(void)
 {
 	IMAGE img1;
 	IMAGE img2;
-	loadimage(&img1, ".././Texture./Play./Issac_Loot_1.png", 50, 50);
-	loadimage(&img2, ".././Texture./Play./Issac_Loot_2.png", 50, 50);
+	loadimage(&img1, ".././Texture./Play./Issac_Loot_1.png", 40, 40);
+	loadimage(&img2, ".././Texture./Play./Issac_Loot_2.png", 40, 40);
 	putimage(0,0,&img1, SRCPAINT);
 	putimage(0, 0, &img2, SRCAND);
+}
+
+void updateWithInput(void)
+{
+
+}
+
+void action(int x, int y)
+{
+	while (1)
+	{
+		
+	}
 }
